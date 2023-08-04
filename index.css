@@ -1,0 +1,20 @@
+body{
+    font-size: xx-large;
+    text-align: center;
+    background-image: url("image.png");
+    background-size: cover;
+    color: white;
+    
+}
+h1{
+    color: goldenrod;
+}
+button{
+    font-size: large;
+    padding: 5px;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
